@@ -1,0 +1,8 @@
+﻿  Principal.cpp
+c:\users\bomba\source\repos\taller2\taller2\principal.cpp(225): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\bomba\source\repos\taller2\taller2\principal.cpp(406): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+c:\users\bomba\source\repos\taller2\taller2\principal.cpp(489): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Generando código...
+  Omitiendo... (no se detectaron cambios relevantes)
+  Main.cpp
+  Taller2.vcxproj -> C:\Users\bomba\source\repos\Taller2\Debug\Taller2.exe
